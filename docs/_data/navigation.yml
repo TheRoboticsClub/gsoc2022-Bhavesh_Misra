@@ -1,0 +1,36 @@
+# main links
+main:
+  - title: Roadmap
+    url: /roadmap/
+
+  - title: LogBook
+    url: /logbook/
+
+  - title: Installation
+    url: /install/
+
+  - title: About
+    url: /about/
+
+# left side bar
+docs:
+  - title: Roadmap
+    children: 
+    - title: Roadmap
+      url: /roadmap/
+
+  - title: LogBook
+    children:
+      - title: Check it out
+        url: /logbook/
+
+  - title: Installation
+    children: 
+    - title: How to install
+      url: /install/
+
+  - title: About
+    children:
+    - title: About the project
+      url: /about/
+  
