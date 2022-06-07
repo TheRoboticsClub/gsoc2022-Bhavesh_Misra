@@ -6,16 +6,18 @@ sidebar:
   nav: "docs"
 ---
 
-## Optimization of Deep Learning models for autonomous driving
+## Robotics Academy - Improve Deep learning Exercise
 
-The main aim of the project is to improve the current model stack of deep learning models, in terms of inference speed with minimum loss of precision, for autonomous driving applications. JdeRobot organization has created Behavior Metrics a tool for comparing deep learning architectures for autonomous driving on different circuits with the support of Gazebo and Ros Noetic. The organization also provides another tool called DeepLearningStudio, which has datasets and some model implementations for training deep learning models. We will use available tools and techniques such as TensorRT, Quantization, Pruning, and architectural changes to optimize the correct model stack available in both PyTorch and Tensorflow.
+JdeRobot is a toolkit for developing Robotics Applications. Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (. Building robotics applications is a complex task. Integrating existing nodes or libraries that provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot provides several tools, libraries and reusable nodes. The main aim of this project is to improve the Deep learning exercise of JdeRobot, by Improving the user interface, and by Enabling GPU support while executing the exercise from the docker container. 
 
 ### ORGANIZATION
 JdeRobot - Universidad Rey Juan Carlos
 
 ### MENTORS
 
-* Sergio Paniego Blanco
+* David Pauscal Hernandez
 
-* Utkarsh A. Mishra
+* Shashwat Dalakoti
+
+* Pankhuri Vanjani
 

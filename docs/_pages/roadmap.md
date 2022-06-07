@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Optimization of Deep Learning models for autonomous driving
+# Robotics Academy - Improve Deep learning Exercise
 
 
 ## Abstract
