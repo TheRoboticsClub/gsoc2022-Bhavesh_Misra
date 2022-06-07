@@ -10,16 +10,20 @@ sidebar:
 # Robotics Academy - Improve Deep learning Exercise
 
 
-## Abstract
+## Goals
 
-The main aim of the project is to improve the current model stack of deep learning
-models, in terms of inference speed with minimum loss of precision, for autonomous driving applications. JdeRobot organization has created Behavior Metrics[1], a tool for comparing deep learning architectures for autonomous driving on different circuits with the support of Gazebo and Ros Noetic. The organization also provide another tool called DeepLearningStudio [2], which has datasets and model implementations for training deep learning models. We will use available tools and techniques such as TensorRT [3], Quantization [4], Pruning [5], and architectural changes [6,7,8] to optimize the correct model stack available in both PyTorch and Tensorflow.
+*Custom train or find an enhanced DL model trained to detect only humans specifically. Changes to the pre-processing and post-processing part would have to be made as per the input and output structure of the new model.
+*Enhancing the model benchmarking part in terms of its interpretability, use case, accuracy, and visual appeal to the user.
+*Enabling GPU support while executing the exercise from the docker container.
+*Fluent exercise execution.
+*Building a tutorial for the exercise using the Keras Framework, which uses Theano and Tensorflow frameworks as backend.
+
 
 
 ### References
 
-[1] [https://github.com/JdeRobot/BehaviorMetrics](https://github.com/JdeRobot/BehaviorMetrics) \\
-[2] [https://github.com/JdeRobot/DeepLearningStudio](https://github.com/JdeRobot/DeepLearningStudio) \\
+[1] [https://github.com/JdeRobot/RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)\\
+[2]  \\
 [3] [https://developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt) \\
 [4] [https://www.tensorflow.org/api_docs/python/tf/quantization/quantize](https://www.tensorflow.org/api_docs/python/tf/quantization/quantize) \\
 [5] [https://www.tensorflow.org/model_optimization/guide/pruning](https://www.tensorflow.org/model_optimization/guide/pruning) \\
