@@ -15,8 +15,7 @@ categories:
 tags:
 - Docker
 - Virtualenv
-- Behavior Metrics
-- DL Studio
+- Robotics Academy
 
 author: Bhavesh Misra
 pinned: false

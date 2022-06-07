@@ -8,7 +8,7 @@ header:
     #- label: "<i class='fas fa-download'></i> Install now"
     #  url: "/installation/"
 excerpt: 
-  Optimization of Deep Learning models for autonomous driving
+  Robotics Academy - Improve Deep learning Exercise
 feature_row:
   - image_path: /assets/images/cover/logbook.jpg
     alt: "Logbook"
@@ -40,10 +40,12 @@ youTube_id: ID7qaEcIu4k
 
 Hello!
 
-I am Nikhil Paliwal, a master student studying in Saarland University, Germany. This project present my work for GSoc 2022 participation. My project focus on the optimization of Deep Learning models for autonomous driving. We used tools and techniques such as TensorRT, Quantization, Pruning, and architectural changes to optimize the correct model stack available in both PyTorch and Tensorflow.In the following [set of blogs](https://theroboticsclub.github.io/gsoc2022-Nikhil_Paliwal/logbook/) is explained the progress through the program.
+My name is Bhavesh Misra, a sophomore at BITS Pilani, Hyderabad Campus, India. I am a machine learning and Computer Vision enthusiast and found out about JdeRobot from a senior who showed it to us when I started looking for various GSoC organisations, back in November 2021. I did enjoy working with JdeRobot but then stopped for a while because it got too difficult fo me xD. N. Apart from searching for code on StackOverflow and crying about why Machine learning contains soo much Math, I like to play games, namely Pokemon and Clash Royale and Reading.
 
 Mentors:
 
-* Sergio Paniego Blanco
+* David Pascual Hernández
 
-* Utkarsh A. Mishra
+* Shashwat Dalakoti
+
+* Pankhuri Vanjani
