@@ -29,8 +29,8 @@ During the first week of the Community bonding period, My mentors and I had a me
 ## Objectives
 
 - [X] Set up the Environment for the Deep learning exercise to run successfully.
-<!-- - [ ] Set up a static website using Github Pages for your Blog Posting. -->
-<!-- - [ ] Fix the camera issue in my computer so as to make the Deep learning exercise run successfully-->
+- [ ] Set up a static website using Github Pages for your Blog Posting. 
+- [ ] Fix the camera issue in my computer so as to make the Deep learning exercise run successfully
 
 
 
