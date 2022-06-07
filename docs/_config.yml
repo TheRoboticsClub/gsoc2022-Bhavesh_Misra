@@ -22,8 +22,8 @@ subtitle                 : Programming Robot Intelligence
 name                     : "JdeRobot - Google Summer of Code 2022"
 description              : "Programming Robot Intelligence"
 url                      : https://theroboticsclub.github.io
-baseurl                  : "/gsoc2022-Nikhil_Paliwal"# the subpath of your site, e.g. "/blog"
-repository               : "TheRoboticsClub/gsoc2022-Nikhil_Paliwal"
+baseurl                  : "/gsoc2022-Bhavesh_Misra"# the subpath of your site, e.g. "/blog"
+repository               : "TheRoboticsClub/gsoc2022-Bhavesh_Misra"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

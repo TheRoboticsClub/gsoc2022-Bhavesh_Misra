@@ -1,5 +1,5 @@
 ---
-title: "Community Bonding: Week 2"
+title: "Community Bonding: Weeks 1 and 2"
 excerpt: "Identify, resolve issues and add features in main tools"
 usemathjax: true
 sidebar:
@@ -18,7 +18,7 @@ tags:
 - Behavior Metrics
 - DL Studio
 
-author: Nikhil Paliwal
+author: Bhavesh Misra
 pinned: false
 ---
 
