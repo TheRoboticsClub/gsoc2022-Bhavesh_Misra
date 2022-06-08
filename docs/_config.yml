@@ -123,7 +123,7 @@ analytics:
 # Site Author
 author:
   name             : "Bhavesh Misra"
-  avatar           : "docs/assets/images/profile_Bhavesh.jpg"
+  avatar           : "/home/zekrom7780/github/gsoc2022-Bhavesh_Misra/docs/assets/images/profile_Bhavesh.jpg"
   bio              : "Bachelors Student at BITS Hyderabad and Google Summer of Code 2022 student at JdeRobot"
   location         : "India"
   
