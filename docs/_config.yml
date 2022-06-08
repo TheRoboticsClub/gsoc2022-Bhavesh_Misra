@@ -122,27 +122,25 @@ analytics:
 # PROFILE
 # Site Author
 author:
-  name             : "Nikhil Paliwal"
-  avatar           : "/assets/images/profile_Nikhil.jpg"
-  bio              : "Master student at Saarland University and Google Summer of Code 2022 student at JdeRobot"
-  location         : "Germany"
-  email            :  "nikhil.paliwal14@gmail.com"
+  name             : "Bhavesh Misra"
+  avatar           : "docs/assets/images/profile_Bhavesh.jpg"
+  bio              : "Bachelors Student at BITS Hyderabad and Google Summer of Code 2022 student at JdeRobot"
+  location         : "India"
+  
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "nikhil.paliwal14@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "nikhil.paliwal14@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/nikhilpaliwal-linkedin/"
+      url: "https://www.linkedin.com/in/bhavesh-misra-a502a921b/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nikp1806"
+      url: "https://twitter.com/misra_bhavesh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nik1806"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCmGGodIu8S24jovts17SkpA"
+      url: "https://github.com/Zekrom-7780"
+
 
 
 #################################################################################
