@@ -23,7 +23,7 @@ sidebar:
 ### References
 
 [1] [https://github.com/JdeRobot/RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)\\
-[2]  \\
+[2] [https://github.com/JdeRobot/DeepLearningStudio](https://github.com/JdeRobot/DeepLearningStudio) \\
 [3] [https://developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt) \\
 [4] [https://www.tensorflow.org/api_docs/python/tf/quantization/quantize](https://www.tensorflow.org/api_docs/python/tf/quantization/quantize) \\
 [5] [https://www.tensorflow.org/model_optimization/guide/pruning](https://www.tensorflow.org/model_optimization/guide/pruning) \\
