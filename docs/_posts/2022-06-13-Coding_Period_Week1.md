@@ -1,5 +1,5 @@
 ---
-title: "COding Period: Week 1"
+title: "Coding Period: Week 1"
 excerpt: "Identify, resolve issues and add features in main tools"
 usemathjax: true
 sidebar:
