@@ -1,0 +1,52 @@
+---
+title: "Coding Period: Weeks 4 and 5"
+excerpt: "Work on understanding the codebase as well as completion of the Models for the Exercise"
+usemathjax: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+
+
+categories:
+- GSoC
+tags:
+- Docker
+- Virtualenv
+- Robotics Academy
+
+author: Bhavesh Misra
+pinned: false
+---
+
+
+
+## Overview
+
+Week 4 had been a VERYY BADD week for me, for personal reasons (basically overburdening myself with different stupid taksks, and not managing to get out anything in any task) and this hampered my work REALLY BAD. I wasn't able to work at all during this week, and my mentors proposed a kinda ultimatum: We'll give you 2 days extension and you'll produce results, as the Midterm evualations are approaching quickly, and I didn't have much to show for it.
+It was decided that the fourth week SHOULD be the last week for the finding of a model. However, due to my sheer incompetence, this was dragged in my fifth week as well.
+
+
+## Objectives
+
+- [] Check the codebase as well 
+- [] Close the ssd_mobilenetv2 model
+- [] Show the running model
+- [] Use seaborn to get prettier plots
+- [] Updating the graph in real time
+
+
+## The execution
+
+
+
+## References
+
+[1] [https://github.com/JdeRobot/RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)\\
+[2] [https://onnxruntime.ai/](https://onnxruntime.ai/)\\
+[3] [https://www.khronos.org/nnef](https://www.khronos.org/nnef)\\
+[4] [https://github.com/onnx/models](https://github.com/onnx/models)\\
+[5] [https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)\\
+[6] [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)\\ 
