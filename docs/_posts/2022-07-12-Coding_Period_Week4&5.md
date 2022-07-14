@@ -32,7 +32,7 @@ It was decided that the fourth week SHOULD be the last week for the finding of a
 ## Objectives
 
 - [] Check the codebase as well 
-- [] Close the ssd_mobilenetv2 model
+- [X] Close the ssd_mobilenetv2 model
 - [] Show the running model
 - [] Use seaborn to get prettier plots
 - [] Updating the graph in real time
@@ -40,7 +40,7 @@ It was decided that the fourth week SHOULD be the last week for the finding of a
 
 ## The execution
 
-s
+
 
 ## References
 
