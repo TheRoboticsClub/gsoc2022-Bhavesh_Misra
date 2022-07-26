@@ -11,7 +11,7 @@ At the 2nd last line of the DOckerfile, add this line
 
 Changes in the Dockerfile.base:-
 
-# Python 3 dependencies installed by pip
+Python 3 dependencies installed by pip (line 140)
 RUN python3 -m pip install argparse argcomplete coverage cerberus empy jinja2 kconfiglib \
 		matplotlib==3.0.* numpy nunavut==1.1.0 packaging pkgconfig pyros-genmsg pyulog \
 		pyyaml requests serial six toml psutil pyulog wheel onnxruntime Pillow opencv-python netron seaborn
