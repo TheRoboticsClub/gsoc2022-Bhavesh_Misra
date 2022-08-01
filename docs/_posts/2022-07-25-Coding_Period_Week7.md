@@ -45,10 +45,10 @@ Week 7 happened. Did not get kicked out of the Program. Very happy. Now have to 
 
 ## The execution
 
-The first thing that went through my mind, was to try and first do the HTML part of the code, i.e. adding a division and a list of all the possible options of graphs available. I decided to refer to [] for this work. It was then decidied to have 3 graphs in total, they being mean Average Precision, 11-point Interpolation and Average Precision. After this, i explored Evaluator.py ,and found out that we can use 2 graphs, that are available to us, through changing the parameters passsed in the functions. Now, I decided to try both of these, and Got something like this.
+The first thing that went through my mind, was to try and first do the HTML part of the code, i.e. adding a division and a list of all the possible options of graphs available. I decided to refer to [1] for this work. It was then decidied to have 3 graphs in total, they being mean Average Precision, 11-point Interpolation and Average Precision. After this, i explored Evaluator.py ,and found out that we can use 2 graphs, that are available to us, through changing the parameters passsed in the functions. Now, I decided to try both of these, and Got something like this.
 <figure>
   <img src="/assets/images/graphs_part1.png" alt="graph_image">
-  <figcaption>graph_image.</figcaption>
+  <figcaption>graph_image</figcaption>
 </figure>
 
 Now, the part that was left was to compile everything and get everything working, like getting the HTML, Javascript and the Python code ready, which I'm doing, and will be completed till week 8 (hopefully)
@@ -57,11 +57,6 @@ P.S. Tonikawa pretty wholesome stuff xD.
 
 ## References
 
-[1] [https://github.com/JdeRobot/RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)\\
-[2] [https://onnxruntime.ai/](https://onnxruntime.ai/)\\
-[3] [https://www.khronos.org/nnef](https://www.khronos.org/nnef)\\
-[4] [https://github.com/onnx/models](https://github.com/onnx/models)\\
-[5] [https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)\\
-[6] [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)\\ 
-[7] [https://github.com/tensorflow/models/tree/master/research/object_detection/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models)\\
-[8] [https://github.com/JdeRobot/RoboticsAcademy/blob/master/docs/InstructionsForDevelopers.md](https://github.com/JdeRobot/RoboticsAcademy/blob/master/docs/InstructionsForDevelopers.md)\\
+[1] [https://cocodataset.org/#detection-eval](https://cocodataset.org/#detection-eval)
+[2] [https://github.com/JdeRobot/RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)\\
+[3] [https://onnxruntime.ai/](https://onnxruntime.ai/)\\
