@@ -47,7 +47,7 @@ Week 7 happened. Did not get kicked out of the Program. Very happy. Now have to 
 
 The first thing that went through my mind, was to try and first do the HTML part of the code, i.e. adding a division and a list of all the possible options of graphs available. I decided to refer to [1] for this work. It was then decidied to have 3 graphs in total, they being mean Average Precision, 11-point Interpolation and Average Precision. After this, i explored Evaluator.py ,and found out that we can use 2 graphs, that are available to us, through changing the parameters passsed in the functions. Now, I decided to try both of these, and Got something like this.
 <figure>
-  <img src="/assets/images/graphs_part1.png" alt="graph_image">
+  <img src="https://github.com/TheRoboticsClub/gsoc2022-Bhavesh_Misra/blob/main/docs/assets/images/graphs_part1.png" alt="graph_image">
   <figcaption>graph_image</figcaption>
 </figure>
 
