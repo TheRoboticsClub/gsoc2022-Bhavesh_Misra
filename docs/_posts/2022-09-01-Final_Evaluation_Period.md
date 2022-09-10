@@ -1,5 +1,5 @@
 ---
-title: "Coding Period: Weeks 9 and 10"
+title: "Coding Period: Final_Evaluation_Period"
 excerpt: "Updating the exercise frontend"
 usemathjax: true
 sidebar:
