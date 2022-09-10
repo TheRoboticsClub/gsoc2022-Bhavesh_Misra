@@ -1,6 +1,6 @@
 ---
 title: "Coding Period: Final_Evaluation_Period"
-excerpt: "Updating the exercise frontend"
+excerpt: "Testing the Exercise in the ocker Container and Submitting the work"
 usemathjax: true
 sidebar:
   nav: "docs"

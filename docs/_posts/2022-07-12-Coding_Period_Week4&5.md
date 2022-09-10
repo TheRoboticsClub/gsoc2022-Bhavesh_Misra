@@ -25,7 +25,7 @@ pinned: false
 
 ## Overview
 
-Week 4 had been a VERYY BADD week for me, for personal reasons (basically overburdening myself with different stupid taksks, and not managing to get out anything in any task) and this hampered my work REALLY BAD. I wasn't able to work at all during this week, and my mentors proposed a kinda ultimatum: We'll give you 2 days extension and you'll produce results, as the Midterm evualations are approaching quickly, and I didn't have much to show for it.
+Week 4 had been a VERYY BADD week for me, for personal reasons (basically overburdening myself with different stupid tasks, and not managing to get out anything in any task) and this hampered my work REALLY BAD. I wasn't able to work at all during this week, and my mentors proposed a kinda ultimatum: We'll give you 2 days extension and you'll produce results, as the Midterm evualations are approaching quickly, and I didn't have much to show for it.
 It was decided that the fourth week SHOULD be the last week for the finding of a model. However, due to my sheer incompetence, this was dragged in my fifth week as well.
 
 
