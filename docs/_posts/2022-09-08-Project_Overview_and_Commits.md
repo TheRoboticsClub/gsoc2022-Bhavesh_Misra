@@ -1,13 +1,29 @@
 ---
-layout: post
-title:  "Project Overview  and Commits"
-date:   2022-09-10 02:30:50 +0530
-categories: jekyll update
+title: "Project Overview and Commits"
+excerpt: "Project Overview and Commits"
+usemathjax: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+
+
+categories:
+- GSoC
+tags:
+- Docker
+- Virtualenv
+- Robotics Academy
+
+author: Bhavesh Misra
+pinned: false
 ---
 
 ## What was done
 
-I worked on building a Deep Learning Human Detection Exercise to identify the presence of humans and identification of the rectangular boundary around them. Apart from the live and video inference features, the exercise also includes model benchmarking and model visualization. The user is expected to upload a Deep Learning model which fits the required input and output specifications for inference. The input model is supposed to be in the ONNX format. <br/>
+I worked on improving the Deep Learning Human Detection Exercise to identify the presence of humans and identification of the rectangular boundary around them. Apart from the live and video inference features, the exercise also includes model benchmarking and model visualization. The user is expected to upload a Deep Learning model which fits the required input and output specifications for inference. The input model is supposed to be in the ONNX format. <br/>
 The project work also included compiling and testing an exercise guide for the user, which contains everything from fine tuning pre built object detection models in different frameworks(PyTorch and TensorFlow), to its subsequent conversion to the ONNX format. <br/> <br/>
 Below is a very brief timeline of the work done. For more information and details, please refer to the specific week in the blog post. <br/>
 
@@ -25,7 +41,7 @@ Below is a very brief timeline of the work done. For more information and detail
 ## Working Demo
 
 <iframe width="700" height="480"
-src="https://www.youtube.com/embed/vn4ahq8mElg">
+src="https://youtu.be/BumgcGHSxek">
 </iframe> 
 <br/>
 
